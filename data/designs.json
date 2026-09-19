@@ -1,0 +1,70 @@
+[
+  {
+    "id": "BR001",
+    "category": "bridal",
+    "designName": "Royal Bridal Aari",
+    "slug": "royal-bridal-aari",
+    "description": "Premium bridal blouse with stone, zari and signature Aari embroidery detailing.",
+    "priceRange": "₹8,000 - ₹15,000",
+    "leadTime": "10-15 days",
+    "fabricType": "Silk",
+    "sleeveType": "Elbow",
+    "embellishmentType": "Stone Work",
+    "tags": ["bridal", "zari", "silk"],
+    "images": [
+      "https://images.unsplash.com/photo-1529139574466-a303027c1d8b?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1515886657613-9f3515b0c78f?auto=format&fit=crop&w=1200&q=80"
+    ]
+  },
+  {
+    "id": "HD002",
+    "category": "handwork",
+    "designName": "Temple Handwork Classic",
+    "slug": "temple-handwork-classic",
+    "description": "Intricate handwork inspired by temple motifs with rich detailing and luxury finish.",
+    "priceRange": "₹6,500 - ₹12,000",
+    "leadTime": "8-12 days",
+    "fabricType": "Cotton Silk",
+    "sleeveType": "Full Sleeve",
+    "embellishmentType": "Hand Embroidery",
+    "tags": ["handwork", "temple", "classic"],
+    "images": [
+      "https://images.unsplash.com/photo-1524504388940-b1c1722653e1?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1521572267360-ee0c2909d518?auto=format&fit=crop&w=1200&q=80"
+    ]
+  },
+  {
+    "id": "MD003",
+    "category": "medium",
+    "designName": "Medium Floral Lotus",
+    "slug": "medium-floral-lotus",
+    "description": "Elegant floral lotus design with balanced embroidery for versatile festive wear.",
+    "priceRange": "₹5,000 - ₹9,500",
+    "leadTime": "7-10 days",
+    "fabricType": "Georgette",
+    "sleeveType": "3/4 Sleeve",
+    "embellishmentType": "Thread Work",
+    "tags": ["medium", "floral", "festive"],
+    "images": [
+      "https://images.unsplash.com/photo-1483985988355-763728e1935b?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1524504388940-b1c1722653e1?auto=format&fit=crop&w=1200&q=80"
+    ]
+  },
+  {
+    "id": "ST004",
+    "category": "stitching",
+    "designName": "Modern Stitching Elegance",
+    "slug": "modern-stitching-elegance",
+    "description": "Contemporary blouse stitching design with refined shape and premium finishing.",
+    "priceRange": "₹4,000 - ₹7,500",
+    "leadTime": "6-9 days",
+    "fabricType": "Banarasi",
+    "sleeveType": "Short Sleeve",
+    "embellishmentType": "Tailoring Finish",
+    "tags": ["stitching", "modern", "designer"],
+    "images": [
+      "https://images.unsplash.com/photo-1496747611176-843222e1e57c?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1529139574466-a303027c1d8b?auto=format&fit=crop&w=1200&q=80"
+    ]
+  }
+]

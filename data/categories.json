@@ -1,0 +1,26 @@
+[
+  {
+    "id": "bridal",
+    "name": "Bridal Work",
+    "description": "Royal bridal embroidery with statement detailing and heirloom charm.",
+    "accent": "from-[#7f1d1d] to-[#c8a95b]"
+  },
+  {
+    "id": "handwork",
+    "name": "Hand Work",
+    "description": "Textured, artisan-heavy motifs designed to feel timeless and personal.",
+    "accent": "from-[#a17d46] to-[#f0e3c8]"
+  },
+  {
+    "id": "medium",
+    "name": "Medium Work",
+    "description": "Balanced patterns for festive celebrations and versatile styling.",
+    "accent": "from-[#4f3b2c] to-[#d7b57c]"
+  },
+  {
+    "id": "stitching",
+    "name": "Blouse Stitching",
+    "description": "Tailored silhouettes with premium finishing and personalized fit.",
+    "accent": "from-[#2d1f1c] to-[#7d5f4d]"
+  }
+]
