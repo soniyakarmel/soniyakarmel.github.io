@@ -28,7 +28,7 @@ jobs:
 
       - name: Build static app
         env:
-          NEXT_PUBLIC_BASE_PATH: /${{ github.event.repository.name }}
+          GITHUB_REPOSITORY: ${{ github.repository }}
         run: npm run build
 
       - name: Upload artifact
